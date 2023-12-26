@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835816354955",
+    "project_id": "nullclass-9107b",
+    "storage_bucket": "nullclass-9107b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835816354955:android:2bd1f228e222f6f89d508e",
+        "android_client_info": {
+          "package_name": "com.example.nullclassapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhXJA8IYo56bxQke1Fn2sorksjgWPbGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
